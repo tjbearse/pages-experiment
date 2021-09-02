@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  tjbearse
 domain: tjbearse.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://tjbearse.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: "pages-experiment" # the subpath of your site, e.g. /blog
+baseurl: "/pages-experiment/" # the subpath of your site, e.g. /blog
 
 
 # Build settings
