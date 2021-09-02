@@ -6,10 +6,9 @@
 
 0. copy docker-compose and _setup.sh
 0. run ./_setup.sh to get a jekyll quickstart (`docker-compose run jekyll jekyll new . --force`)
+0. Run steps 8 - 14 of [Github Pages Jekyll Instructions](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) (using `docker-compose jekyll bundle install`)
 0. `docker-compose up` to run locally
 
-additional configuration of jekyll (_config.yml) needed?
-https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 ==gh-pages==
 For publishing built content to github pages, e.g. webapp builds

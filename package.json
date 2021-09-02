@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/tjbearse/pages-experiment/issues"
   },
-  "homepage": "https://github.com/tjbearse/pages-experiment#readme",
+  "homepage": "https://github.com/tjbearse/pages-experiment",
   "devDependencies": {
     "gh-pages": "^3.2.3"
   }
