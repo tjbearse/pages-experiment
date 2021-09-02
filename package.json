@@ -1,0 +1,22 @@
+{
+  "name": "pages-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pages": "gh-pages -d fake-build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjbearse/pages-experiment.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjbearse/pages-experiment/issues"
+  },
+  "homepage": "https://github.com/tjbearse/pages-experiment#readme",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
