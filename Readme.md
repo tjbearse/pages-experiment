@@ -1,7 +1,7 @@
 
-##static content##
+## static content ##
 
-##jekyll##
+## jekyll ##
 [Jekyll](https://jekyllrb.com/) can generate static sites and is supported by github pages
 
 0. copy docker-compose and _setup.sh
@@ -10,7 +10,7 @@
 0. `docker-compose up` to run locally
 
 
-##gh-pages##
+## gh-pages ##
 For publishing built content to github pages, e.g. webapp builds
 
 0. setup github pages to use gh-pages branch
